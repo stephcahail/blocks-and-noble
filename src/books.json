@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "Mastering Bitcoin: Unlocking Digital Cryptocurrencies",
+    "picture": "images/Mastering-Bitcoin.jpeg",
+    "author": "Andreas M. Antonopoulos",
+    "published": "December 20, 2014",
+    "publisher": "O'Reilly Media"
+  },
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "picture": "images/The-Great-Gatsby.jpeg",
+    "author": "F. Scott Fitzgerald",
+    "published": "April 10, 1925",
+    "publisher": "Charles Scribner's Sons"
+  },
+  {
+    "id": 2,
+    "title": "Milk and Honey",
+    "picture": "images/milk-and-honey.jpeg",
+    "author": "Rupi Kaur",
+    "published": "October 6, 2015",
+    "publisher": "Andrews McMeel"
+  },
+  {
+    "id": 3,
+    "title": "The Ultimate Guide To Throwing A Garden Party",
+    "picture": "images/Throwing-A-Garden-Party.jpeg",
+    "author": "James Trickington",
+    "published": "October 13, 2011",
+    "publisher": "Dunder Mifflin Paper Company"
+  }
+]
