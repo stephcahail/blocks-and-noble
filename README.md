@@ -5,6 +5,6 @@ This prototype is based on the Pete's Pet Shop tutorial: https://truffleframewor
 
 The smart contracts created are the contracts between an author and the publishing company that published his/her book(s) and the contracts between the author and users who purchase his/her book.
 
-To initialize truffle, run "truffle init" in the command line. Since the migrations and contracts are already in place, then answer "N" to everything.
+To initialize truffle, run "truffle init" in the command line. Since the migrations and contracts are already in place, then answer "N" to everything. After running the compile and migrate commands, run "npm run dev" to open the local interface. See the pet shop tutorial for more details about these steps.
 
 Please let me know if you have any questions or issues by emailing me: stephcahail@gmail.com. Or, if you know me personally please reach out in other ways that may be more convenient. :)
